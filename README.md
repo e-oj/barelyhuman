@@ -11,7 +11,7 @@ I build tools and apps for me to use, so a lot of what you'll find in my reposit
 
 If you do end up using something and would like to donate 
 
-[![Donate](https://img.shields.io/badge/Donate-black?style=for-the-badge)](paypal.me/barelyreaper)
+[![Donate](https://img.shields.io/badge/Donate-black?style=for-the-badge)](https://paypal.me/barelyreaper)
 
 
 I do write and you can find those on [reaper.im](https://reaper.im/blog)
