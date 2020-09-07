@@ -16,5 +16,6 @@ If you do like something, consider donating.
 
 I do write and you can find those on [reaper.im](https://reaper.im/blog)
 
+Slack Theme `#212121,#212121,#FFFFFF,#212121,#333333,#FFFFFF,#FFFFFF,#FFFFFF,#212121,#FFFFFF`
 
 Adios.
