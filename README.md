@@ -14,7 +14,7 @@ If you do like something, consider donating.
 [![Donate](https://img.shields.io/badge/Donate-black?style=for-the-badge)](https://paypal.me/barelyreaper)
 
 
-I do write and you can find those on [reaper.im](https://reaper.im/blog)
+I do write stuff and you can find them on [reaper.im/blog](https://reaper.im/blog)
 
 Slack Theme 
 - Light `#EFEFEF,#212121,#121212,#EFEFEF,#121212,#232323,#121212,#121212,#EFEFEF,#121212`
