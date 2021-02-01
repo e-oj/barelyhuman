@@ -19,5 +19,6 @@ I do write stuff and you can find them on [reaper.im/blog](https://reaper.im/blo
 Slack Theme 
 - Light `#EFEFEF,#212121,#121212,#EFEFEF,#121212,#232323,#121212,#121212,#EFEFEF,#121212`
 - Dark `#121212,#212121,#EFEFEF,#121212,#EFEFEF,#EDEDED,#EFEFEF,#EFEFEF,#121212,#EFEFEF`
+- Accented Dark `#121212,#259692,#259692,#FFFFFF,#4A5664,#ffffff,#ff8800,#FF8800,#259692,#ffffff`
 
 Adios.
