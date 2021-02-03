@@ -21,4 +21,6 @@ Slack Theme
 - Dark `#121212,#212121,#EFEFEF,#121212,#EFEFEF,#EDEDED,#EFEFEF,#EFEFEF,#121212,#EFEFEF`
 - Accented Dark `#121212,#259692,#259692,#FFFFFF,#4A5664,#ffffff,#ff8800,#FF8800,#259692,#ffffff`
 
+<img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=graywhite" alt="github stats for egoist">
+
 Adios.
