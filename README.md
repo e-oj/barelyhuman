@@ -10,6 +10,8 @@ If you do like something, consider donating.
 
 I write as well and you can find that on [reaper.im/blog](https://reaper.im/blog)
 
+Stalk me on https://gitstalk.netlify.app/barelyhuman
+
 Slack Theme 
 - Light `#EFEFEF,#212121,#121212,#EFEFEF,#121212,#232323,#121212,#121212,#EFEFEF,#121212`
 - Dark `#121212,#212121,#EFEFEF,#121212,#EFEFEF,#EDEDED,#EFEFEF,#EFEFEF,#121212,#EFEFEF`
