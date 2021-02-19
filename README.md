@@ -1,16 +1,17 @@
 # Reaper | BarelyHuman
 
-I build minimal and performant apps and tools with my requirements as a motivation. 
-These are almost always MIT Licensed so you are free to fork, fix, and send PR's as needed.
+I build minimal and performant developer centric apps and tools. (Ignoring a few web and electron apps)
 
-If you do like something, consider donating.
+Most repositories are MIT Licensed so you are free to fork, fix, and send PR's as needed.
 
-[![Donate](https://img.shields.io/badge/Donate-black?style=for-the-badge)](https://paypal.me/barelyreaper)
+If you do like something, consider buying me a coffee.
+
+[![](https://img.shields.io/badge/-Buy%20Coffee-black?style=for-the-badge)](https://paypal.me/barelyreaper)
 
 
-I write as well and you can find that on [reaper.im/blog](https://reaper.im/blog)
+Visit [reaper.im/blog](https://reaper.im/blog) , if you'd like to read something.
 
-[Stalk me Working](https://gitstalk.netlify.app/barelyhuman)
+[Stalk More?](https://gitstalk.netlify.app/barelyhuman)
 
 Slack Theme 
 - Light `#EFEFEF,#212121,#121212,#EFEFEF,#121212,#232323,#121212,#121212,#EFEFEF,#121212`
