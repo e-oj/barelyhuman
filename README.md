@@ -6,7 +6,7 @@ Most repositories are MIT Licensed so you are free to fork, fix, and send PR's a
 
 If you do like something, consider buying me a coffee.
 
-[![](https://img.shields.io/badge/-Buy%20Coffee-black?style=for-the-badge)](https://paypal.me/barelyreaper)
+<a href="https://www.buymeacoffee.com/barelyhuman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=barelyhuman&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
 
 Visit [reaper.im/blog](https://reaper.im/blog) , if you'd like to read something.
