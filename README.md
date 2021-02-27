@@ -21,3 +21,11 @@ Slack Theme
 <img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=graywhite" alt="github stats for barelyhuman">
 
 Adios.
+
+
+## Target for this year (2021)
+- [ ] Build own bundler 
+- [ ] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars and get fellow developers to maintain it
+- [ ] Figure out a way to live off of building open source tooling and apps (someone will have to help me figure out a way)
+- [ ] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev)
+- [x] Enjoy life everyday.
