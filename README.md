@@ -28,4 +28,5 @@ Adios.
 - [ ] Get [commitlog](https://github.com/barelyhuman/commitlog) to cross 50 stars and get fellow developers to maintain it
 - [ ] Figure out a way to live off of building open source tooling and apps (someone will have to help me figure out a way)
 - [ ] Make a more simpler and scalable version of [TillWhen](https://tillwhen.barelyhuman.dev)
+- [ ] Get more supporters on [https://www.buymeacoffee.com/barelyhuman](https://www.buymeacoffee.com/barelyhuman)
 - [x] Enjoy life everyday.
