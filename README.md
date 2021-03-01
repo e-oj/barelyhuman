@@ -20,8 +20,7 @@ Slack Theme
 
 <img  src="https://github-readme-stats.vercel.app/api?username=barelyhuman&show_icons=true&hide_title=true&count_private=true&theme=graywhite" alt="github stats for barelyhuman">
 
-Adios.
-
+Track Progress of TillWhen Mark 2 - https://tw2poa.vercel.app/
 
 ## Target for this year (2021)
 - [ ] Build own bundler 
